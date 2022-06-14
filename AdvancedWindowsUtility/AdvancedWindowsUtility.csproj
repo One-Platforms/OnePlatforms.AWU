@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	    
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;netstandard2.0</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>OnePlatforms.AWU</PackageId>
+    <Authors>Omer Huseyin GUL</Authors>
+    <Company>One Platforms</Company>
+    <Description>One Platforms Advanced Windows Utility, makes it easier to use Win32 API and WMI resources.</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <PackageIcon>AWU.png</PackageIcon>
+    <RepositoryUrl>https://github.com/One-Platforms/OnePlatforms.AWU</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+	<LangVersion>preview</LangVersion>
+    <PackageTags>Windows, Win32, WinAPI, WMI, Hardware, Network, WindowsAPI, Win32API</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Product>OnePlatforms.AWU</Product>
+    <Version>1.0.2</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\AWU.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Management" Version="6.0.0" />
+  </ItemGroup>
+
+</Project>

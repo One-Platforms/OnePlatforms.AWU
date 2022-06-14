@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IWegUz43G0StpUyQIxwWYCv40qWH2DZ8FIuP9qhxbYSCdD2mBTvvL9jOgcuLhS7t1VvpZvUOe9GuIYbEy4H+CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omerh\\Documents\\GitHub\\OnePlatforms.AWU\\AdvancedWindowsUtility\\AdvancedWindowsUtility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omerh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\omerh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\omerh\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\omerh\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

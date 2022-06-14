@@ -1,0 +1,12 @@
+C:\Users\omerh\Documents\GitHub\OnePlatforms.AWU\AdvancedWindowsUtility\bin\Debug\net6.0\AdvancedWindowsUtility.deps.json
+C:\Users\omerh\Documents\GitHub\OnePlatforms.AWU\AdvancedWindowsUtility\bin\Debug\net6.0\AdvancedWindowsUtility.dll
+C:\Users\omerh\Documents\GitHub\OnePlatforms.AWU\AdvancedWindowsUtility\bin\Debug\net6.0\AdvancedWindowsUtility.pdb
+C:\Users\omerh\Documents\GitHub\OnePlatforms.AWU\AdvancedWindowsUtility\obj\Debug\net6.0\AdvancedWindowsUtility.csproj.AssemblyReference.cache
+C:\Users\omerh\Documents\GitHub\OnePlatforms.AWU\AdvancedWindowsUtility\obj\Debug\net6.0\AdvancedWindowsUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerh\Documents\GitHub\OnePlatforms.AWU\AdvancedWindowsUtility\obj\Debug\net6.0\AdvancedWindowsUtility.AssemblyInfoInputs.cache
+C:\Users\omerh\Documents\GitHub\OnePlatforms.AWU\AdvancedWindowsUtility\obj\Debug\net6.0\AdvancedWindowsUtility.AssemblyInfo.cs
+C:\Users\omerh\Documents\GitHub\OnePlatforms.AWU\AdvancedWindowsUtility\obj\Debug\net6.0\AdvancedWindowsUtility.csproj.CoreCompileInputs.cache
+C:\Users\omerh\Documents\GitHub\OnePlatforms.AWU\AdvancedWindowsUtility\obj\Debug\net6.0\AdvancedWindowsUtility.dll
+C:\Users\omerh\Documents\GitHub\OnePlatforms.AWU\AdvancedWindowsUtility\obj\Debug\net6.0\refint\AdvancedWindowsUtility.dll
+C:\Users\omerh\Documents\GitHub\OnePlatforms.AWU\AdvancedWindowsUtility\obj\Debug\net6.0\AdvancedWindowsUtility.pdb
+C:\Users\omerh\Documents\GitHub\OnePlatforms.AWU\AdvancedWindowsUtility\obj\Debug\net6.0\ref\AdvancedWindowsUtility.dll

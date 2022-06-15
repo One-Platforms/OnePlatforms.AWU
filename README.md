@@ -61,7 +61,7 @@ using AdvancedWindowsUtility;
 /* 
 Function Name: GetAvailableMemorySpace
 Parameter Status: string (type) [Packet Type] [Types: Bytes, KBytes, MBytes, GBytes]
-Return Value: System.String
+Return Value: System.Decimal
 Function Description: Returns the amount of memory available from the package type you specify.
 Thread Type: Synchronous [Sync]
 */
@@ -72,7 +72,7 @@ Windows.GetAvailableMemorySpace("MBytes"); // Example Result: 62424796
 /* 
 Function Name: IsRunningProcess
 Parameter Status: string (procParam) [Process Name]
-Return Value: System.String
+Return Value: System.Boolean
 Function Description: Returns whether the specified application is running.
 Thread Type: Synchronous [Sync]
 */
@@ -124,7 +124,7 @@ using AdvancedWindowsUtility;
 /* 
 Function Name: GetAvailableMemorySpaceAsync
 Parameter Status: string (type) [Packet Type] [Types: Bytes, KBytes, MBytes, GBytes]
-Return Value: System.String
+Return Value: System.Decimal
 Function Description: Returns the amount of memory available from the package type you specify.
 Thread Type: Asynchronous [Async]
 */
@@ -135,7 +135,7 @@ await Windows.GetAvailableMemorySpaceAsync("MBytes"); // Example Result: 6242479
 /* 
 Function Name: IsRunningProcess
 Parameter Status: string (procParam) [Process Name]
-Return Value: System.String
+Return Value: System.Boolean
 Function Description: Returns whether the specified application is running.
 Thread Type: Asynchronous [Async]
 */
